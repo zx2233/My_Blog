@@ -8,8 +8,7 @@
 .project
 .settings
 .springBeans
-.sts4-cache
-
+.idea/ workspace.xml
 ### IntelliJ IDEA ###
 .idea
 *.iws
