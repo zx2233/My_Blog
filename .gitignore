@@ -8,7 +8,6 @@
 .project
 .settings
 .springBeans
-.idea/ workspace.xml
 ### IntelliJ IDEA ###
 .idea
 *.iws
