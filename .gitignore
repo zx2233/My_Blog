@@ -22,4 +22,4 @@
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/‘.idea’
+/.nb-gradle/‘.idea/ workspace.xml ’
