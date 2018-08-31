@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class RecursiveSpiral {
     /***
-     *
+     *AAAA
      */
     /**/
     /**递归方式
